@@ -1,8 +1,8 @@
 from setuptools import setup
 
 REQUIRES = [
-    'records',
-    'structlog'
+    'records>=0.5.3',
+    'structlog>=23.1.0'
 ]
 
 setup(
